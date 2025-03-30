@@ -1,13 +1,14 @@
 POLITIQUE D'INDEXATION ET D’INTÉGRATION DE L'INSTRUMENT DE RECHERCHE DANS LE PORTAIL D’ARCHIVES DE L’AISNE
 
 Table des matières
-1	Objet	1
-2	Choix des normes de métadonnées	1
-3	Indexation :	1
-4	Alignements sur les référentiels	1
-5	Typologie documentaire	2
-6	Validation du document	2
-7	LIMITES – LIEN AVEC D’AUTRES FORMATS	2
+1	Objet	
+2	Choix des normes de métadonnées	
+3	Indexation :
+4	Alignements sur les référentiels
+5	Typologie documentaire
+6	Validation du document
+7	LIMITES – LIEN AVEC D’AUTRES FORMATS
+
 
 1	Objet 
 L’instrument de recherche doit correspondre aux attentes des Archives de l’Aisne mais aussi, pour répondre aux besoins d’interopérabilité des données, aux spécifications des plateformes agrégatives comme France Archives au niveau français ou par exemple Europeana au niveau européen.
