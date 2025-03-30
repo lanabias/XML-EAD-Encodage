@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead SYSTEM "ead.dtd">
+<ead>
+    <eadheader>
+        <eadid>FRAD002_84_J</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Graineterie Blondeel à Bohain</titleproper>
+                <subtitle>Répertoire numérique</subtitle>
+                <subtitle>84 J</subtitle>
+                <author>Rédigé par Luc Piraux sous la direction de Aude Roelly</author>
+            </titlestmt>			
+            <publicationstmt>
+                <address>
+                    <addressline>Laon</addressline>
+                </address>
+                <date>2008-10</date>
+                <publisher>Archives départementales de l'Aisne</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Cet instrument de recherche a été produit au moyen du logiciel oXygen le<date>13 février 2025.</date></creation>
+        	<langusage>
+        		Instrument de recherche rédigé en langue <language langcode="fre">française</language>.
+        	</langusage>
+            <descrules>Encodage en XML-EAD (version 2002)</descrules>
+        </profiledesc>
+    </eadheader>
+
+    <archdesc level="fonds">
+              <did>
+            <unitid>84 J 1 à 60</unitid>
+            <unittitle>Fonds de la Graineterie Blondeel à <geogname source="GeoNames" authfilenumber="https://www.geonames.org/3032127/bohain-en-vermandois.html">Bohain-en-Vermandois</geogname></unittitle>
+            <unitdate normal="1954-01-01/2004-12-31" calendar="gregorian" era="ce">1922-1962</unitdate>
+            <physdesc>
+				<extent>3.5 mètres linéaires</extent>
+			</physdesc>
+            <origination>
+				<persname source="BnF" authfilenumber="ark:/12148/cb11915136j" normal="Matisse, Henri (1869-1954)" role="040">Henri Matisse</persname>
+				<corpname source="Wikidata" authfilenumber="Q16303824" normal="Maison familiale d'Henri Matisse"> Musée - Maison familiale d'Henri Matisse-Grainterie Blondel</corpname>
+				<corpname source="Wikidata" authfilenumber="Q123220879" normal="Aisne " role="lieu de conservation">Département de l'Aisne</corpname>
+			</origination>
+            <langmaterial>Français</langmaterial>
+        </did>
+		<bioghist>
+            <p>Le peintre Henri Matisse est né le 31 décembre 1869 au Câteau-Cambrésis, dans le département du Nord. Ses parents, <persname>Henri Emile Matisse</persname> et <persname>Anne Gérard</persname> ont fondé la même année la maison Matisse-Gérard à Bohain.
+            	<geogname source="BnF" authfilenumber="ark:/12148/cb11970404s" normal="Le Cateau-Cambrésis (Nord, France)" role="lieu de naissance">Câteau-Cambrésis, dans le département du Nord</geogname></p>
+        </bioghist>
+		<custodhist>
+		<p>	A Bohain, ils achètent le 21 octobre 1876 à Louise Fidéline, Paul-Fernand et Louis Joseph Lefèvre, propriétaires en indivision, « une maison sise à Bohain à l’angle formé par la rue du Château et la rue Peu d’Aise moyennant le prix principal de quinze
+mille deux cent cinquante francs ». La famille Matisse y établit une graineterie.</p>
+		<p>Cette maison passe ensuite successivement dans le patrimoine de Gérard Henri Matisse jusqu’en 1923, année où elle devient propriété de Thierry Auguste Emile Matisse. Ensuite, le
+commerce est tenu par Fernand Lapie (attesté dès 1925) puis par Robert Lesecq-Dizy (attesté dès le milieu de l’année 1947) qui se rend définitivement acquéreur de la maison en 1956.
+A cette graineterie succède le magasin de fleurs et de graines tenu par la famille Blondeel. Lors de la fermeture de ce commerce, la maison est rachetée par le Département de l’Aisne qui y
+aménage un musée consacré au peintre.</p></custodhist>
+        <controlaccess> 
+        	<persname source="BnF" authfilenumber="ark:/12148/cb11915136j" normal="Matisse, Henri (1869-1954)" role="040">Henri Matisse</persname>
+        	<persname source="eac-cpf" authfilenumber="FRAD002_NP_Matisse" normal="Matisse, Henri (1869-1954)" role="040">Henri Matisse</persname>
+        	<corpname source="Wikidata" authfilenumber="Q16303824" normal="Maison familiale d'Henri Matisse"> Musée - Maison familiale d'Henri Matisse-Grainterie Blondel</corpname>
+        	<corpname source="Wikidata" authfilenumber="Q120216455" normal="Société hippique rurale">société hippique rurale de Bohain</corpname>
+        	<geogname source="Wikidata" authfilenumber="Q271329" normal="Bohain-en-Vermandois" role="lieu du producteur">Bohain-en-Vermandois</geogname>
+        	<subject>Personnel</subject>
+        	<subject>Comptabilité et finances</subject>
+        	<subject>Fiscalité</subject>
+        	<subject>Recette et dépense</subject>
+        	<subject>Frais généraux</subject>
+        	<subject>Comptes de l'entreprise</subject>
+        	<subject>Aviculture</subject>
+        </controlaccess>
+        <acqinfo>
+        	<p>À la fermeture de la graineterie Blondeel, le fonds a été collecté par les Archives départementales le 11 février 2004.</p>
+        </acqinfo>
+        <scopecontent> 
+        	<p>Les documents collectés ont été répartis dans 8 chapitres</p>
+        	<list>
+        		<item>Administration générale et fonctionnement</item>
+        		<item>Personnel</item>
+        		<item>Comptabilité et finances</item>
+        		<item>Dépositaire extérieur</item>
+        		<item>Fiscalité</item>
+        		<item>Animation commerciale</item>
+        		<item>Aviculture</item>
+        		<item>Présidence de la Société hippique rurale de Bohain</item>
+        	</list>
+		</scopecontent>
+		<accessrestrict>
+			<p>Le fonds est communicable selon les délais prescrits par le code du Patrimoine, art L. 213-1 et suivants.</p>
+		</accessrestrict>
+			
+        <dsc>
+		    <c level="recordgrp">
+                <did>
+                    <unitid>84 J 1-4</unitid>
+                    <unittitle>Administration générale et fonctionnement</unittitle>
+                </did>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 1</unitid>
+						<unittitle>
+							<genreform type="genre" normal="correspondance">Correspondance</genreform> : 
+							<genreform type="form" normal="registre">registre</genreform> de copie de 
+							<genreform type="form" normal="lettre">lettres</genreform>.</unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1924-01-01/1934-12-31">1921-1934</unitdate>
+					</did>
+				</c>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 2</unitid>
+						<unittitle>
+							<genreform type="genre" normal="correspondance">Correspondance</genreform> : 
+							<genreform type="form" normal="lettre">courrier</genreform>
+							arrivée et départ</unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1924-01-01/1934-12-31">1921-1934</unitdate>
+						<note><p>(Classement chronologique)</p></note>
+					</did>
+				</c>		
+				<c level="file">
+					<did>                    
+						<unitid>84 J 3</unitid>
+						<unittitle><genreform type="genre" normal="agenda">Agendas annuels</genreform></unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1936-01-01/1939-12-31">1936-1939</unitdate>
+						<note><p>(1936,1947-1949)</p></note>
+					</did>
+				</c>	
+				<c level="file">
+					<did>                    
+						<unitid>84 J 4</unitid>
+						<unittitle><genreform type="genre" normal="agenda">Agendas annuels</genreform></unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1936-01-01/1939-12-31">1952-1956</unitdate>
+					</did>
+				</c>
+			</c>	
+			<c level="recordgrp">
+                <did>
+                    <unitid>84 J 5-7</unitid>
+                    <unittitle>Personnel</unittitle>
+                </did>
+				<c level="file">
+					<did>
+						<unitid>84 J 5</unitid>
+						<unittitle>
+							Salaire du personnel : 
+							<genreform type="type de document" normal="registre de paie">registre de paie</genreform> <unitdate calendar="gregorian" era="ce" normal="1947-01-01/1951-12-31">1947-1951</unitdate>), 
+							<genreform type="type de document" normal="bulletins de salaire">carnet de bulletins de salaire</genreform> <unitdate calendar="gregorian" era="ce" normal="1948-01-01/1949-12-31">1948-1949</unitdate> 
+						</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1947-01-01/1951-12-31">1947-1951</unitdate>
+					</did>
+					
+				</c>
+				<c level="file">
+					<did>
+						<unitid>84 J 6</unitid>
+						<unittitle>Personnel, cotisation à la <corpname>caisse d'allocations familiales</corpname> : 
+							<genreform type="type de document" normal="instructions">instructions (1951-1953)</genreform> <unitdate calendar="gregorian" era="ce" normal="1951-01-01/1953-12-31">(1951-1953)</unitdate>, 
+							<genreform type="type de document" normal="note d'information">notes d'information</genreform><unitdate calendar="gregorian" era="ce" normal="1951-01-01/1953-12-31">(1951-1953)</unitdate>, 
+							<genreform type="genre" normal="correspondance">correspondance </genreform><unitdate calendar="gregorian" era="ce" normal="1952-01-01/1953-12-31">(1952-1953)</unitdate>
+						</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1951-01-01/1953-12-31">1951-1953</unitdate>
+					</did>
+					
+				</c>
+				<c level="file">
+					<did>
+						<unitid>84 J 7</unitid>
+						<unittitle>Personnel, cotisation à la <corpname>sécurité sociale</corpname> : 
+							<genreform type="genre" normal="correspondance">correspondance</genreform>(<unitdate calendar="gregorian" era="ce" normal="1953-01-01/1953-12-31">1947</unitdate>,<unitdate calendar="gregorian" era="ce" normal="1953-01-01/1953-12-31">1953</unitdate>,<unitdate calendar="gregorian" era="ce" normal="1962-01-01/1962-12-31">1962</unitdate>) 
+							<genreform type="type de document" normal="certificat de travail">certificat de travail (1953)</genreform><unitdate calendar="gregorian" era="ce" normal="1953-01-01/1953-12-31">(1953)</unitdate>, 
+							<genreform type="type de document" normal="circulaire">circulaires </genreform><unitdate calendar="gregorian" era="ce" normal="1953-01-01/1953-12-31">(1953)</unitdate>, 
+							<genreform type="type de document" normal="déclarations">déclarations annuelles de salaire (1958, 1961)</genreform>(<unitdate calendar="gregorian" era="ce" normal="1958-01-01/1958-12-31">(1958,</unitdate>, <unitdate calendar="gregorian" era="ce" normal="1961-01-01/1961-12-31">1961)</unitdate>
+						</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1947-01-01/1962-12-31">1947-1962</unitdate>
+					</did>
+					
+				</c>
+			</c>
+			<c level="recordgrp">
+                <did>
+                    <unitid>84 J 8-51</unitid>
+					<unittitle>
+						<genreform type="genre" normal="comptabilité">Comptabilité </genreform> et 
+						<genreform type="genre" normal="finance">finances </genreform>
+					</unittitle>
+                </did>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 8</unitid>
+						<unittitle>
+							<genreform type="type de document" normal="Registre des recettes et dépenses">Registre des recettes et dépenses.</genreform>
+						</unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1924-01-01/1928-12-31">1924-1928</unitdate>
+					</did>
+				</c>
+				<c level="file">
+					<did>
+						<unitid>84 J 9</unitid>
+						<unittitle>
+							<genreform type="type de document" normal="Registre de frais généraux">Registre de frais généraux</genreform>
+						</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1924-01-01/1930-12-31">1924-1930</unitdate>
+					</did>
+				</c>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 10</unitid>
+						<unittitle><genreform type="genre" normal="Comptes de l'entreprise">Comptes de l’entreprise</genreform> : balance financière.
+						</unittitle>                 
+						<unitdate calendar="gregorian" era="ce" normal="1924-01-01/1924-12-31">1924</unitdate>
+					</did>
+				</c>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 11</unitid>
+						<unittitle>
+							<genreform type="type de document" normal="livre-journal">Livre-journal</genreform>
+						</unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1948-01-01/1948-12-31">1948</unitdate>
+					</did>
+				</c>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 12</unitid>
+						<unittitle><genreform type="type de document" normal="livre de caisse">Livre de caisse.</genreform></unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1946-01-01/1954-12-31">1946-1954</unitdate>
+					</did>
+				</c>
+			</c>
+			<c level="recordgrp">
+                <did>
+                    <unitid>84 J 52-53</unitid>
+                    <unittitle>Dépositaire extérieur</unittitle>
+                </did>
+				<c level="file">
+					<did>
+						<unitid>84 J 52-53</unitid>
+						<unittitle>Activité de <persname>Mme Delabruyère</persname>, dépositaire à <geogname source="Wikidata" authfilenumber="Q636484" normal="Maretz" role="lieu du dépositaire">Maretz</geogname></unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1950-01-01/1956-12-31">1950-1956</unitdate>
+					</did>
+				</c>
+			</c>
+			<c level="recordgrp">
+                <did>
+                    <unitid>84 J 56</unitid>
+                    <unittitle>Animation commerciale</unittitle>
+                </did>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 56</unitid>
+						<unittitle><genreform type="genre" normal="Chronique">Chronique</genreform> agricole diffusée sous le patronage de <corpname source="ISNI" authfilenumber="0000000121808963" normal="Vilmorin">Villemorin-Andrieux</corpname> sur <corpname source="BnF" authfilenumber="ark:/12148/cb11866974" normal="Radio-Télé-Luxembourg">radio-Luxembourg</corpname> : transcriptions des émissions radiophoniques..</unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1950-01-01/1953-12-31">1950-1953</unitdate>
+					</did>
+				</c>
+			</c>
+			<c level="recordgrp">
+                <did>
+                    <unitid>84 J 57-58</unitid>
+                    <unittitle>Aviculture</unittitle>
+                	
+                </did>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 57</unitid>
+						<unittitle> Aviculture : 
+							<genreform type="genre" normal="correspondance">Correspondance</genreform>
+						</unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1961-01-01/1936-12-31">1931-1936</unitdate>
+					</did>
+				</c>
+				<c level="file">
+					<did>
+						<unitid>84 J 58</unitid>
+						<unittitle>Organisation de l'exposition nationale de la <corpname>société d'aviculture du Vermandois</corpname> du <unitdate calendar="gregorian" era="ce" normal="1951-02-03/1951-02-04">3 au 4 février 1951 : </unitdate>
+							<genreform type="type de document" normal="facture d'imprimerie">facture d'imprimerie</genreform>, 
+							<genreform type="type de document" normal="lettre d'exposant">lettre d'exposant</genreform>, 
+							<genreform type="genre" normal="publicités">publicités</genreform>, 
+							<genreform type="genre" normal="statuts">statuts</genreform>
+						</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1951-02-03/1951-02-04">3 au 4 février 1951</unitdate>
+					</did>
+					
+				</c>
+			</c>
+			<c level="recordgrp">
+                <did>
+                    <unitid>84 J 59-60</unitid>
+                	<unittitle>Présidence de la 
+                		<corpname source="Wikidata" authfilenumber="Q120216455" normal="Société hippique rurale">société hippique rurale</corpname> de 
+                		<geogname source="Wikidata" authfilenumber="Q271329" normal="Bohain-en-Vermandois" role="lieu du producteur">Bohain</geogname>.
+                	</unittitle>
+                </did>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 59</unitid>
+						<unittitle><corpname source="Wikidata" authfilenumber="Q120216455" normal="Société hippique rurale">société hippique rurale</corpname> de 
+							<geogname source="Wikidata" authfilenumber="Q271329" normal="Bohain-en-Vermandois" role="lieu du producteur">Bohain</geogname>, fonctionnement : 
+								 <genreform type="genre" normal="Statuts">Statuts</genreform> et 
+								 <genreform type="type de documents" normal="procès-verbaux d'assemblée générale">procès-verbaux d’assemblée générale </genreform>
+							(<unitdate calendar="gregorian" era="ce" normal="1951-01-01/1952-12-31">1951-1952</unitdate>). 
+						</unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1950-01-01/1953-12-31">1950-1953</unitdate>
+					</did>
+				</c>
+				<c level="file">
+					<did>                    
+						<unitid>84 J 60</unitid>
+						<unittitle>Concours hippique rurale de <geogname source="Wikidata" authfilenumber="Q271329" normal="Bohain-en-Vermandois" role="lieu du producteur">Bohain</geogname></unittitle>                    
+						<unitdate calendar="gregorian" era="ce" normal="1950-01-01/1953-12-31">1950-1953</unitdate>
+					</did>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

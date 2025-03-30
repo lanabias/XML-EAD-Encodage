@@ -1,0 +1,81 @@
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 https://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control>
+        <recordId>FRAD02_NP_Matisse</recordId>
+        <maintenanceStatus>new</maintenanceStatus>
+        <maintenanceAgency>
+            <agencyName>Archives départementales de l'Aisne</agencyName>
+            <agencyName/>
+        </maintenanceAgency>
+        <languageDeclaration>
+           <language languageCode="fre">Français</language>
+           <script scriptCode="Latn"/>
+        </languageDeclaration>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime>2025-03-04</eventDateTime>
+                <agentType>human</agentType>
+                <agent>L. Nabias</agent>
+            </maintenanceEvent>
+        </maintenanceHistory>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId localType="ISNI">0000 0001 2130 0449</entityId>
+            <entityId localType="BnF">cb11915136j</entityId>
+            <entityId localType="VIAF">42630086</entityId>
+            <entityId localType="IdRef">027017303</entityId>
+            <entityId localType="Wikidata">Q5589</entityId>
+            <entityId localType="Wikipedia">wiki/Henri_Matisse</entityId>
+            <entityId localType="LOC">n95025502</entityId>
+            <entityId localType="WorldCat">054729</entityId>
+            <entityType>person</entityType>
+            <nameEntry localType="autorisée" scriptCode="Latn" xml:lang="fre">
+             <part>Matisse, Henri (1869-1954)</part>
+            </nameEntry>
+        </identity>
+        <description>
+            <existDates>
+            <dateRange>
+            <fromDate standardDate="1869-12-31">31 décembre 1869</fromDate>
+            <toDate standardDate="1954-11-03">03 novembre 1954</toDate>
+            </dateRange>
+            </existDates>
+            <occupations>
+                <occupation>
+                  <term>peintre</term>
+                </occupation>
+                <occupation>
+                    <term>graveur</term>
+                </occupation>
+                <occupation>
+                  <term>sculpteur</term>
+                </occupation>
+            </occupations>
+            <places>
+                <place>
+                    <placeRole>Lieu de naissance</placeRole>
+                    <placeEntry vocabularySource="6617185" localType="geonames.org">Cateau-Cambrésis (Nord)</placeEntry>
+                    <date standardDate="1869-12-31">31 décembre 1869</date>
+                </place>
+                <place>
+                     <placeRole>Lieu de la résidence familiale</placeRole>
+                     <placeEntry vocabularySource="3032127" localType="geonames.org">Bohain-en-Vermandois </placeEntry>
+                </place>
+                <place>
+                     <placeRole>Lieu de décès</placeRole>
+                     <placeEntry vocabularySource="2990440" localType="geonames.org">Nice</placeEntry>
+                </place>
+            </places>
+            <biogHist>
+                 <p>Le peintre Henri Matisse est né le 31 décembre 1869 au Câteau-Cambrésis, dans le département du Nord. Ses parents, Henri Emile Matisse et Anne Gérard ont fondé la même année la maison Matisse-Gérard à Bohain.</p>
+            </biogHist>
+        </description>
+        <relations>
+            <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" resourceRelationType="creatorOf" xlink:href="https://www.musee-matisse.com/archives">
+                <relationEntry localType="archives">Musée Henri Matisse - Archives</relationEntry>
+                <placeEntry>Bohain-en-Vermandois</placeEntry>
+            </resourceRelation>
+        </relations>
+    </cpfDescription>
+</eac-cpf>
